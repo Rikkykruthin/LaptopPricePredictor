@@ -74,3 +74,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 https://github.com/shanthankatkuri/LaptopPricePredictor/assets/122714930/b63ec0fe-a067-4294-86d1-02d1d6ce5eb4
 
+# LaptopPricePredictor
